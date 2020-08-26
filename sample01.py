@@ -42,6 +42,7 @@ class BrowserInteractions():
         # Browser Close / Quit
         # driver.close()
         driver.quit()
-
 ff = BrowserInteractions()
 ff.test()
+
+#add this line
